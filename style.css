@@ -696,3 +696,6 @@ h1, h2, h3, h4, h5, h6, .logo{
 
 
 }
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+  color:var(--bs-gray) !important;
+}
